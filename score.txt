@@ -1,0 +1,8 @@
+ Player1  Score1   Player2    Score2
+
+ sharad 				  0 			sagar 			   0 
+ sharad 				 1 			 sagar 			   0 
+ sharad 				 1 			 sagar 			   1 
+ sharad 				 1 			 sagar 			   0 
+ sharad 				 0 			 sagar 			   0 
+ sharad 				 2 			 sagar 			   1 
